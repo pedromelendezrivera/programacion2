@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Sofia",
+    "apellido": "Gómez",
+    "edad": 28,
+    "correo_electronico": "sofia.gomez@example.com",
+    "telefono": "310-555-0101"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Pérez",
+    "edad": 45,
+    "correo_electronico": "carlos.perez@example.com",
+    "telefono": "300-555-0102"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Rodríguez",
+    "edad": 34,
+    "correo_electronico": "ana.rodriguez@example.com",
+    "telefono": "320-555-0103"
+  }
+]
